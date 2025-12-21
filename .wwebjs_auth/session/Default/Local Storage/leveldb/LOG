@@ -1,0 +1,6 @@
+2025/12/21-15:04:12.911 1108 Reusing MANIFEST D:\my_projects\New folder\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/12/21-15:04:12.911 1108 Recovering log #21
+2025/12/21-15:04:12.960 1108 Reusing old log D:\my_projects\New folder\.wwebjs_auth\session\Default\Local Storage\leveldb/000021.log 
+2025/12/21-15:06:22.192 53b8 Level-0 table #25: started
+2025/12/21-15:06:23.922 53b8 Level-0 table #25: 15770 bytes OK
+2025/12/21-15:06:24.042 53b8 Delete type=0 #21

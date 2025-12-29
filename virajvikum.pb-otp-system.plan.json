@@ -1,0 +1,12 @@
+{
+  "type": "app",
+  "name": "pb-otp-system",
+  "runtime": "nodejs@20",
+  "entrypoint": "server.js",
+  "ports": [
+    {
+      "port": 3000,
+      "protocol": "http"
+    }
+  ]
+}

@@ -61,6 +61,7 @@ Thank you!`;
     }
 });
 
-app.listen(3000, '0.0.0.0', () => {
-    console.log('WhatsApp OTP Server (whatsapp-web.js) Running on http://YOUR_IP:3000');
-});
+// app.listen(3000, '0.0.0.0', () => {
+//     console.log('WhatsApp OTP Server (whatsapp-web.js) Running on http://YOUR_IP:3000');
+// });
+export default app;
